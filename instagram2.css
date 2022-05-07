@@ -1,0 +1,125 @@
+/*.boxed{
+    border: 2px solid black;
+    height: 80%;
+    width: 25%;
+    line-height: 400%;
+    text-align: left;
+}*/
+/* styling the form*/
+
+img{
+    height: 1.6cm;
+    width: 5cm;
+    box-shadow: black;
+}
+form{
+    /*background-color:whitesmoke;*/
+    background:rgba(0, 0, 0, 0.856);
+   
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px 30px;
+   /* box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5) ;*/
+    height: 70%;
+    width: 20%;
+    text-align: left;
+    line-height:  50%;
+    border-radius: 0.2cm;
+
+}
+.sign-in{
+    color: white;
+    font-size: 0.8cm;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/*.placelable{
+   
+    top: 50%;
+    left: 10px;
+    color: black;
+    font-size: 14px;
+    -webkit-transition: font .1s ease,top .1s ease,-webkit-transform .1s ease;
+    transition: font .1s ease,top .1s ease,-webkit-transform .1s ease;
+    -o-transition: font .1s ease,top .1s ease,-o-transform .1s ease;
+    -moz-transition: font .1s ease,top .1s ease,transform .1s ease,-moz-transform .1s ease;
+    transition: font .1s ease,top .1s ease,transform .1s ease;
+    transition: font .1s ease,top .1s ease,transform .1s ease,-webkit-transform .1s ease,-moz-transform .1s ease,-o-transform .1s ease;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+   
+}*/
+
+/*hr{
+    height: 0.2cm;
+    width: 40%;
+    background-color: whitesmoke;
+}*/
+.button{
+    background-color:#d12d2d;
+    width: 105%;
+    height: 1cm;
+    color: white;
+    border-radius: 0.1cm;
+    border-color: #d12d2d;
+    font-size: 0.48cm;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+   
+}
+/*.Z7p_S {
+    margin: 10px 40px 18px;
+}
+.K-1uj {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+}
+.Z7p_S {
+    margin: 10px 40px 18px;
+}
+.K-1uj {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+}*/
+.help{
+    text-align: right;
+    font-size: 0.35cm;
+    color: #cccc;
+    text-decoration: underline;
+
+}
+hr{
+    width: 40%;
+    background-color: rgb(219, 219, 219);
+    align-items: flex-start;
+}
+.or{
+    text-align: center;
+    color: rgb(219, 219, 219);
+    
+}
+.facebook{
+    text-align: left;
+    font-size: 0.4cm;
+    color: #cccc;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.new-user{
+    color: #cccc;
+    font-size: 0.4cm;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.policy{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 0.25cm;
+    color: #cccc;
+}
